@@ -6,4 +6,6 @@
 
 ![Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=nighteraser&theme=holi&layout=donut&size_weight=0.5&count_weight=0.5&exclude_repo=nighteraser.github.io)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 
